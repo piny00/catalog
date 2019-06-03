@@ -3,5 +3,6 @@ version: '2'
 services:
  imapsync-tool:
      image: gilleslamiral/imapsync
-
+      stdin_open: true
+      tty: true
 
