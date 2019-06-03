@@ -1,8 +1,0 @@
-name: IMAP syncer tool
-description: |
-  This is a tool for imap accounts sync.
-version: 1.0
-category: "IMAP sync"
-maintainer: "gilleslamiral"
-license: "really free"
-projectURL: "https://twitter.com/imapsync"
